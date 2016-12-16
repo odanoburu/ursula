@@ -19,6 +19,7 @@ __Maria Firmina dos Reis__ foi uma escritora nascida em 1825 em São Luis. Autod
 ### como contribuir?
 
 [leia o tutorial sobre como colaborar na plataforma GitHub.](/ursula/contribuir)
+não esqueça de também ler as notas de cada versão!
 
 * __ajude fazendo uma ilustração de capa!__
 
