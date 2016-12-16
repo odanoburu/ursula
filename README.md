@@ -15,9 +15,12 @@ __Maria Firmina dos Reis__ foi uma escritora nascida em 1825 em São Luis. Autod
 
 * por causa da ortografia inconsistente e diferente da usual, erros de digitação não são aparentes, e ortografias que seguem o original podem parecer erros de digitação
 	* com isso em mente, se notar algum erro de digitação, por favor faça um _pull request_!
-	* não foi feita revisão da digitação
 	
 ### como contribuir?
+
+[leia o tutorial sobre como colaborar na plataforma GitHub.](https://github.com/odanoburu/ursula/blob/gh-pages/contrib/como-contribuir.md)
+
+* __ajude fazendo uma ilustração de capa!__
 
 * __ajude a fazer uma versão do livro com a grafia atualizada__: mande uma mensagem ou faça um _pull request_!
 
@@ -26,4 +29,4 @@ __Maria Firmina dos Reis__ foi uma escritora nascida em 1825 em São Luis. Autod
 * __ajude a revisar o texto.__ o arquivo original ([v1.0-ursula.md](https://github.com/odanoburu/ursula/blob/master/v1.0-ursula.md)) não foi revisado, muito menos as versões .epub, .pdf, .azw. se você encontrar erros, avise-nos!
 
 ### agradecimentos
-este trabalho não seria possível sem alguns programas de código aberto, em especial: __pandoc, calibre, latex__. obrigado a [__orderedlist__](https://github.com/orderedlist) pelo _template_ do site, à __biblioteca benedito leite__ pelo original do livro e ao __GitHub__ pela hospedagem gratuita.
+este trabalho não seria possível sem alguns programas de código aberto, em especial: __pandoc, calibre__. obrigado a [__orderedlist__](https://github.com/orderedlist) pelo _template_ do site, à __biblioteca benedito leite__ pelo original do livro e ao __GitHub__ pela hospedagem gratuita.
