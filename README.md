@@ -6,9 +6,9 @@ baseados na edição facsimile de Horácio de Almeida (1975), disponível na [bi
 ### notas v1.0:
 
 * a ortografia da edição original foi mantida na maior parte dos casos, inclusive as inconsistências ('amizade' e 'amisade', 'flôr' e 'flor').  exceções:
-	* '_<<_' e '_>>_' foram ambos transformados em '_"_', conforme ortografia atual
+	* `<<` e `>>` foram ambos transformados em `"`, conforme ortografia atual
 	* erros aparentemente tipográficos foram corrigidos, tais como a falta de pontos, ou a troca de pontos por vírgulas
-	* a crase empregada ('´') foi substituída pela usual ('`')
+	* a crase empregada (`´`) foi substituída pela usual (```)
 
 * por causa da ortografia inconsistente e diferente da usual, erros de digitação não são aparentes, e ortografias que seguem o original podem parecer erros de digitação
 	* com isso em mente, se notar algum erro de digitação, por favor faça um _pull request_!
