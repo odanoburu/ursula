@@ -18,4 +18,4 @@ baseado na edição facsimile de Horácio de Almeida (1975), disponível na [bib
 
 * seria interessante fazer uma versão com grafia atualizada. se houver voluntários, mande uma mensagem ou faça um _pull request_!
 
-* há algumas palavras pouco usuais no texto original. em \contrib\ursula-marc.md há uma versão em que essas palavras estão prefixadas com um `$` para facilitar a vida de uma pessoa voluntária que deseje fazer um glossário.
+* há algumas palavras pouco usuais no texto original. em [\contrib\ursula-marc.md](https://github.com/odanoburu/ursula/blob/master/contrib/ursula-marc.md) há uma versão em que essas palavras estão prefixadas com um `$` para facilitar a vida de uma pessoa voluntária que deseje fazer um glossário.
