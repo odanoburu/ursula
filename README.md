@@ -1,11 +1,11 @@
 # ursula
 conteúdo integral do romance "Ursula", de Maria Firmina dos Reis (1859), na grafia original.
 
-baseados na edição facsimile de Horácio de Almeida (1975), disponível na [biblioteca pública Benedito Leite](http://www.cultura.ma.gov.br/portal/sgc/modulos/sgc_bpbl/acervo_digital/arq_ad/20150722152956.pdf).
+baseado na edição facsimile de Horácio de Almeida (1975), disponível na [biblioteca pública Benedito Leite](http://www.cultura.ma.gov.br/portal/sgc/modulos/sgc_bpbl/acervo_digital/arq_ad/20150722152956.pdf).
 
 ### notas v1.0:
 
-* a ortografia da edição original foi mantida na maior parte dos casos, inclusive as inconsistências ('amizade' e 'amisade', 'flôr' e 'flor').  exceções:
+* a ortografia da edição original foi mantida na maior parte dos casos, inclusive as inconsistências (`amizade` e `amisade`, `flôr` e `flor`).  exceções:
 	* `<<` e `>>` foram ambos transformados em `"`, conforme ortografia atual
 	* erros aparentemente tipográficos foram corrigidos, tais como a falta de pontos, ou a troca de pontos por vírgulas
 	* a crase empregada (`´`) foi substituída pela usual (`)
