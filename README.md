@@ -4,7 +4,7 @@ conteúdo integral do romance "Ursula", de Maria Firmina dos Reis (1859), na gra
 baseado na edição facsimile de Horácio de Almeida (1975), disponível na [biblioteca pública Benedito Leite](http://www.cultura.ma.gov.br/portal/sgc/modulos/sgc_bpbl/acervo_digital/arq_ad/20150722152956.pdf).
 
 ## quem foi Maria Firmina dos Reis?
-Maria Firmina foi uma escritora nascida em 1825 em São Luis. Autodidata, contribuía para vários jornais maranhenses. Publicou Ursula em 1859, um dos primeiros romances brasileiros escritos por uma mulher, e o primeiro escrito por uma mulher negra. Foi professora concursada da província do Maranhão até 1881. Morreu cega aos 92 anos de idade.
+__Maria Firmina dos Reis__ foi uma escritora nascida em 1825 em São Luis. Autodidata, contribuía para vários jornais maranhenses. Publicou __Ursula__ em 1859, um dos primeiros romances brasileiros escritos por uma mulher, e o primeiro escrito por uma mulher negra. Foi professora concursada da província do Maranhão até 1881. Morreu cega aos 92 anos de idade.
 
 ### notas v1.0:
 
@@ -17,8 +17,13 @@ Maria Firmina foi uma escritora nascida em 1825 em São Luis. Autodidata, contri
 	* com isso em mente, se notar algum erro de digitação, por favor faça um _pull request_!
 	* não foi feita revisão da digitação
 	
-### extensões
+### como contribuir?
 
-* seria interessante fazer uma versão com grafia atualizada. se houver voluntários, mande uma mensagem ou faça um _pull request_!
+* __ajude a fazer uma versão do livro com a grafia atualizada__: mande uma mensagem ou faça um _pull request_!
 
-* há algumas palavras pouco usuais no texto original. em [\contrib\ursula-marc.md](https://github.com/odanoburu/ursula/blob/master/contrib/ursula-marc.md) há uma versão em que essas palavras estão prefixadas com um `$` para facilitar a vida de uma pessoa voluntária que deseje fazer um glossário.
+* __ajude a fazer um glossário__. há algumas palavras pouco usuais no texto original. em [\contrib\ursula-marc.md](https://github.com/odanoburu/ursula/blob/master/contrib/ursula-marc.md) há uma versão em que essas palavras estão prefixadas com um `$` para facilitar a vida de uma pessoa voluntária que deseje fazer um glossário.
+
+* __ajude a revisar o texto.__ o arquivo original ([v1.0-ursula.md](https://github.com/odanoburu/ursula/blob/master/v1.0-ursula.md)) não foi revisado, muito menos as versões .epub, .pdf, .azw. se você encontrar erros, avise-nos!
+
+### agradecimentos
+este trabalho não seria possível sem alguns programas de código aberto, em especial: __pandoc, calibre, latex__. obrigado a [__orderedlist__](https://github.com/orderedlist) pelo _template_ do site, à __biblioteca benedito leite__ pelo original do livro e ao __GitHub__ pela hospedagem gratuita.
