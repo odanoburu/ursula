@@ -1,3 +1,8 @@
+---
+title: Ursula, de Maria Firmina dos Reis
+layout: default
+---
+
 conteúdo integral do romance "Ursula", de Maria Firmina dos Reis (1859), na grafia original.
 
 baseado na edição facsimile de Horácio de Almeida (1975), disponível na [biblioteca pública Benedito Leite](http://www.cultura.ma.gov.br/portal/sgc/modulos/sgc_bpbl/acervo_digital/arq_ad/20150722152956.pdf).
