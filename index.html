@@ -1,7 +1,3 @@
----
-title: Ursula, de Maria Firmina dos Reis
----
-
 <!doctype html>
 <html>
   <head>
@@ -39,8 +35,54 @@ title: Ursula, de Maria Firmina dos Reis
  
       <section>
 <!-- incluir aqui o .html do markdown. lembrar de remover o header e os tags de <html> -->
-{% capture my_include %}{% include README.md %}{% endcapture %}
-        {{ my_include | markdownify }}
+<body>
+<p>conteúdo integral do romance &ldquo;Ursula&rdquo;, de Maria Firmina dos Reis (1859), na grafia original.</p>
+
+<p>baseado na edição facsimile de Horácio de Almeida (1975), disponível na <a href="http://www.cultura.ma.gov.br/portal/sgc/modulos/sgc_bpbl/acervo_digital/arq_ad/20150722152956.pdf">biblioteca pública Benedito Leite</a>.</p>
+
+<h3 id="quem.foi.Maria.Firmina.dos.Reis.">quem foi Maria Firmina dos Reis?</h3>
+
+<p><strong>Maria Firmina dos Reis</strong> foi uma escritora nascida em 1825 em São Luis. Autodidata, contribuía para vários jornais maranhenses. Publicou <strong>Ursula</strong> em 1859, um dos primeiros romances brasileiros escritos por uma mulher, e o primeiro escrito por uma mulher negra. Foi professora concursada da província do Maranhão até 1881. Morreu cega aos 92 anos de idade.</p>
+
+<hr />
+
+<h3 id="notas.v1.0:">notas v1.0:</h3>
+
+<ul>
+<li><p>a ortografia da edição original foi mantida na maior parte dos casos, inclusive as inconsistências (<code>amizade</code> e <code>amisade</code>, <code>flôr</code> e <code>flor</code>).  exceções:</p>
+
+<ul>
+<li><code>&lt;&lt;</code> e <code>&gt;&gt;</code> foram ambos transformados em <code>"</code>, conforme ortografia atual</li>
+<li>erros aparentemente tipográficos foram corrigidos, tais como a falta de pontos, ou a troca de pontos por vírgulas</li>
+<li>a crase empregada (<code>´</code>) foi substituída pela crase atual (<code>`</code>)</li>
+</ul>
+</li>
+<li><p>por causa da ortografia inconsistente e diferente da usual, erros de digitação não são aparentes, e ortografias que seguem o original podem parecer erros de digitação</p>
+
+<ul>
+<li>com isso em mente, se notar algum erro de digitação, por favor faça um <code>pull request</code>!</li>
+</ul>
+</li>
+</ul>
+
+
+<h3 id="como.contribuir.">como contribuir?</h3>
+
+<p><a href="/ursula/contribuir">leia o tutorial sobre como colaborar na plataforma GitHub.</a>
+não esqueça de também ler as notas de cada versão!</p>
+
+<ul>
+<li><p><strong>ajude fazendo uma ilustração de capa!</strong></p></li>
+<li><p><strong>ajude a fazer uma versão do livro com a grafia atualizada</strong>: mande uma mensagem ou faça um <code>pull request</code>!</p></li>
+<li><p><strong>ajude a fazer um glossário</strong>. há algumas palavras pouco usuais no texto original. em <a href="https://github.com/odanoburu/ursula/blob/master/contrib/ursula-marc.md">\contrib\ursula-marc.md</a> há uma versão em que essas palavras estão prefixadas com um <code>$</code> para facilitar a vida de uma pessoa voluntária que deseje fazer um glossário.</p></li>
+<li><p><strong>ajude a revisar o texto.</strong> o arquivo original (<a href="https://github.com/odanoburu/ursula/blob/master/v1.0-ursula.md">v1.0-ursula.md</a>) não foi revisado, muito menos as versões .epub, .pdf, .azw. se você encontrar erros, avise-nos!</p></li>
+</ul>
+
+
+<h3 id="agradecimentos">agradecimentos</h3>
+
+<p>este trabalho não seria possível sem alguns programas de código aberto, em especial: <a href="http://pandoc.org/"><strong>pandoc</strong></a> (conversão de .markdown para .epub e para .tex), <a href="https://calibre-ebook.com/"><strong>calibre</strong></a> (conversão de .epub para .azw, .mobi) e <a href="overleaf.com"><strong>overleaf</strong></a> (compilação do .pdf a partir do .tex, usando modelo de <a href="http://www.latextemplates.com/template/ebook"><strong>vel e cobo</strong></a>). obrigado a <a href="https://github.com/orderedlist"><strong>orderedlist</strong></a> pelo <em>template</em> do site, à <a href="http://www.cultura.ma.gov.br/bpbl/"><strong>biblioteca benedito leite</strong></a> pelo original do livro e ao <a href="https://github.com/"><strong>GitHub</strong></a> pela hospedagem gratuita.</p>
+</body>
         <!-- main end section -->
       </section>
       <footer>
