@@ -5,7 +5,7 @@ baseado na edição facsimile de Horácio de Almeida (1975), disponível na [bib
 ### quem foi Maria Firmina dos Reis?
 __Maria Firmina dos Reis__ foi uma escritora nascida em 1825 em São Luis. Autodidata, contribuía para vários jornais maranhenses. Publicou __Ursula__ em 1859, um dos primeiros romances brasileiros escritos por uma mulher, e o primeiro escrito por uma mulher negra. Foi professora concursada da província do Maranhão até 1881. Morreu cega aos 92 anos de idade.
 
-***
+* * *
 
 ### notas v1.0:
 
