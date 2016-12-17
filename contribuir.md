@@ -12,7 +12,7 @@ layout: default
 
 4. navegue para o arquivo que você deseja editar. por exemplo, vá para [master/capítulos](https://github.com/labfgvt/ursula/blob/master/cap%C3%ADtulos/) e escolha um capítulo para revisar. clique no lápis (<svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"></path></svg>) para começar a editar.
 
-5. faça as modificações que desejar. corrija erros de digitação ou atualize a grafia da obra.
+5. faça as modificações que desejar. corrija erros de digitação ou atualize a grafia da obra. __atenção__: priorize mudanças nos [capítulos](https://github.com/labfgvt/ursula/blob/master/cap%C3%ADtulos/) individualmente e não no arquivo original. isso facilita a compilação dos arquivos .epub, .pdf, etc.
 
 6. salve seu trabalho. não esqueça de deixar uma mensagem no campo apropriado resumindo as modificações feitas. __isso é muito importante__, caso contrário fica muito difícil revisar o trabalho feito e incorporá-lo ao original.
 
