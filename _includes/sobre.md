@@ -1,6 +1,5 @@
 ---
 title: Ursula, de Maria Firmina dos Reis
-layout: default
 ---
 
 conteúdo integral do romance "Ursula", de Maria Firmina dos Reis (1859), na grafia original.
