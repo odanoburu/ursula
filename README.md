@@ -2,8 +2,10 @@ conteúdo integral do romance "Ursula", de Maria Firmina dos Reis (1859), na gra
 
 baseado na edição facsimile de Horácio de Almeida (1975), disponível na [biblioteca pública Benedito Leite](http://www.cultura.ma.gov.br/portal/sgc/modulos/sgc_bpbl/acervo_digital/arq_ad/20150722152956.pdf).
 
-## quem foi Maria Firmina dos Reis?
+### quem foi Maria Firmina dos Reis?
 __Maria Firmina dos Reis__ foi uma escritora nascida em 1825 em São Luis. Autodidata, contribuía para vários jornais maranhenses. Publicou __Ursula__ em 1859, um dos primeiros romances brasileiros escritos por uma mulher, e o primeiro escrito por uma mulher negra. Foi professora concursada da província do Maranhão até 1881. Morreu cega aos 92 anos de idade.
+
+***
 
 ### notas v1.0:
 
