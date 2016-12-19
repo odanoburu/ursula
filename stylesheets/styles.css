@@ -230,7 +230,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 960px) {
   body {
     word-wrap:break-word;
   }
