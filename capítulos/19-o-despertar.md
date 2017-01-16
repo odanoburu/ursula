@@ -1,3 +1,5 @@
+
+
 # XIX
 
 ## O DESPERTAR
@@ -71,3 +73,4 @@ Então o commendador sahio correndo; porque a presença d'essa mulher matava-o.
 Na sua desesperação ninguem o consolava; porque era máo e cruel para os que o conheciam.
 
 Seos escravos olhavam-no pasmo, e não o reconheciam. O remorso o havia completamente desfigurado.
+

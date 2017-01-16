@@ -16,4 +16,5 @@ Elle simelha á donzella, que não é formosa; porque a natureza negou-lhe as gr
 
 Deixae pois que a minha URSULA, timida e acanhada, sem dotes da naturesa, nem enfeites e louçanias d'arte, caminhe entre vós.
 
-Nao a despreseis, antes amparae-a nos seus incertos e titubantes passos para assim dar alento a authora de seus dias, que talvez que com essa protecção cultive mais o seu engenho, e venha a produzir couza melbor, ou quando menos, sirva esse bom acolhimento de incentivo para outras, que com imaginação mais brilhante, com educação mais acurada, com instrucção mais vasta e liberal, tenham mais timidez do que nós.
+Nao a despreseis, antes amparae-a nos seus incertos e titubantes passos para assim dar alento a authora de seus dias, que talvez que com essa protecção cultive mais o seu engenho, e venha a produzir couza melbor, ou quando menos, sirva esse bom acolhimento de incentivo para outras, que com imaginação mais brilhante, com educação mais acurada, com instrucção mais vasta e liberal, tenham mais timidez do que nós. 
+

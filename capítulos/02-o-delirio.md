@@ -1,3 +1,5 @@
+
+
 # II
 
 ## O DELIRIO
@@ -107,3 +109,4 @@ Ursula e Tulio tiveram então uma só idéa, terrivel e medonha — a morte! e e
 E as noites, que succederam a esta, eram ainda povoadas de sustos e anciedade: o mancebo continuava a soffrer, e seus amigos redobravam de desvelos, e choravam sobre suas dores.
 
 O cavalleiro via-os; escutava-os, e sentia lá no fundo d'alma um extranho sentir. Ursula tornara-se para elle a imagem vaporrosa e afagadora de um anjo: e o que se passava n'aquelle coração enfermo só elle o sabia.
+

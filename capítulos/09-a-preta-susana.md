@@ -1,3 +1,5 @@
+
+
 # IX
 
 ## A PRETA SUSANA
@@ -95,3 +97,4 @@ Tulio ajoelhou-se respeitoso ante tão profundo sentir: tomou as mãos secas, e 
 A velha sentio-o, e duas lagrimas de sincero enternecimento desceram-lhe pela face: ergueo então seos olhos vermelhos de pranto, e arrancou a mão com brandura e elevando-a sobre a cabeça do joven negro, disse-lhe tocada de gratidão:
 
 — Vae, meo filho! que o Senhor guie os teos passos, e te abençôe, como eu te abençôo.
+

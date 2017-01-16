@@ -1,3 +1,5 @@
+
+
 # VI
 
 ## A DESPEDIDA
@@ -18,7 +20,7 @@ E Adelaide erguendo as mãos aos céos, e fitando n'elles seos grandes olhos hum
 
 — Meo filho, —"continuou"— esta separação será talvez eterna!
 
-___
+***
 
 Muitos dias não eram passados, quando eu em pé no meio do salão de meo pae, com os braços cruzados sobre o peito, que sentia partir-se de dôr, observava em silencio a agonia intima d'essas duas mulheres, que na derradeira despedida, semelhavam dolorosas estatus de Niobe.
 
@@ -65,3 +67,4 @@ Mordeo os labios, e com esforço disse-me:
 Ella deo-me um derradeiro olhar, tão terno, tão apaixonado, tão expressivo de magua intima, e de sincero reconhecimento, que as lagrymas, que me gotejavam no coração, por fim me resaltaram nas faces, e prorompi um copioso pranto...........................................
 
 N'esse olhar, em que lhe estava a alma, disse-me a infeliz seo derradeiro adeos.
+

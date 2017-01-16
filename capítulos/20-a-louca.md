@@ -1,6 +1,8 @@
+
+
 # XX
 
-## A LOUCA
+## A Louca
 
 Brilhavam ainda no occaso os ultimos raios do sol. A parda tarde embelesava a naturesa com essas melancholicas côres, que trasem ao coração do homem a saudade e a tristesa.
 
@@ -121,3 +123,4 @@ O padre não deo fé desse accidente e continuou a orar fervorosamente. E a ora�
 Era o perfume, que precedia à alma da donzella.
 
 E ella, nesse transe supremo, crusou as mãos sobre o peito, apertando n'esse estreito abraço a florsinha secca de sua capella, e murmurou —"Tancredo!"—, e com os labios entre-abertos, e onde adejava um sorriso divinal, e como um anjo deo o ultimo suspiro.
+

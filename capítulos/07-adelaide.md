@@ -1,3 +1,5 @@
+
+
 # VII
 
 ## ADELAIDE
@@ -117,3 +119,4 @@ A voz de todo se me extinguio, e eu sahi louco de desesperação e de dôr da ca
 Apos um momento de silencio, o cavalleiro disse a filha de Luiza B..... eis Ursula a fiel narração da minha vida, eis os meos primeiros amores; o resto toca-vos. Fazei-me venturoso. Oh! em vossas mãos está a minha sorte.
 
 A donzella, commovida, não pode fallar e estendeo-lhe a mão, que elle beijou com amor e reconhecimento.
+

@@ -1,3 +1,5 @@
+
+
 # XIV
 
 ## O REGRESSO
@@ -156,4 +158,5 @@ Tancredo e Tulio olharam-se em silencio; esse choro não o comprehendiam elles.
 
 Foi só o que no meio da sua dôr me pôde confiar. Pobre menina!
 
-— Pois bem —"redarguio Tancredo"— tudo está remediado. E galoparam de novo em busca da donzella.
+— Pois bem —"redarguio Tancredo"— tudo está remediado. E galoparam de novo em busca da donzella. 
+

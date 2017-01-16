@@ -1,3 +1,5 @@
+
+
 ## EPILOGO
 
 Dous annos eram já passados sobre os tristes acontecimentos, que narrámos, e ninguem mais na provincia se lembrava dos execrandos factos do convento de *** e da horrenda morte de Tancredo. A justiça, se a pintam vendada, completamente cega ficou, e os assassinatos do apaixonado mancebo e do seo fiel Tulio impunes.
