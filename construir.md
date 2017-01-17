@@ -2,7 +2,7 @@
 title: contribuir
 layout: default
 ---
-__nota: esta página não é pensada para o público em geral (mas se você quiser aprender algo, fique e divirta-se).__
+###### nota: esta página não é pensada para o público em geral (mas se você quiser aprender algo, fique e divirta-se).
 
 aqui vou mostrar como foi feita a conversão do arquivo-texto markdown em que há o conteúdo integral de Ursula para os diversos formatos disponíveis.
 
@@ -12,7 +12,7 @@ o arquivo original de Ursula está em [markdown](https://daringfireball.net/proj
 
 trabalhar com o texto todo em um arquivo é útil para edições do tipo 'search and replace'. por exemplo: decidi deixar o nome 'Ursula' como no original, sem acento. se desejasse mudar 'Ursula' para 'Úrsula', é mais fácil modificar um arquivo só do que vários.
 
-```python
+```python3
 #!/usr/bin/python3.5
 import os
 
@@ -46,10 +46,22 @@ file_loc = input('onde está o arquivo com ursula?')
 ursula_to_chaps(file_loc)
 ```
 
-se as edições forem feitas em um arquivo só, entretanto, é preciso ter uma forma de unir vários arquivos .md (correspondentes a cada capítulo) em um só. para isso, usei o terminal linux (se você usa windows, você precisa descobrir como fazer isso em windows e me contar. basta ter uma pasta com todos os capítulos de Ursula em formato .md (nada mais, nada menos), e rodar
+se as edições forem feitas em um arquivo só, entretanto, é preciso ter uma forma de unir vários arquivos .md (correspondentes a cada capítulo) em um só. para isso, usei o terminal linux (se você usa windows, você precisa descobrir como fazer isso em windows e me contar). basta ter uma pasta com todos os capítulos de Ursula em formato .md (nada mais, nada menos), e rodar
 ```
 cat *.md > ursula.md
 ```
-esse comando concatena todos os arquivos .md da pasta em que você estiver e os salva em um novo arquivo `ursula.md`, por isso não rode o comando se existir algum arquivo .md diferente dos capítulos.
+esse comando concatena todos os arquivos .md da pasta em que você estiver e os salva em um novo arquivo `ursula.md` (por isso, não rode o comando se existir algum arquivo .md diferente dos capítulos).
 
-## -- em construção --
+## .md -> .epub
+
+para transformar o arquivo .md em .epub, precisamos usar o programa [pandoc](http://pandoc.org/). há instruções de download e uso [aqui](http://pandoc.org/getting-started.html). é preciso abrir o terminal (ou command prompt) na pasta em que o arquivo .md original de ursula está, e rodar:
+```bash
+pandoc ursula.md -s -o ursula.epub
+```
+`pandoc` chama o programa, o comando `-s` demanda como resultado um arquivo _standalone_ e o comando `-o` diz onde deve ser guardado o resultado, nesse caso, `ursula.epub.`
+
+podemos fazer essa conversão a partir dos vários arquivos de capítulos. abra o terminal em uma pasta em que todos os arquivos .md se referem à capítulos de Ursula (eles devem estar em ordem), e rode:
+```bash
+pandoc *.md -s -o ursula.epub
+```
+o resultado será o mesmo.
