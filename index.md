@@ -37,4 +37,4 @@ não esqueça de também ler as notas de cada versão! qualquer dúvida, mande u
 ### agradecimentos
 este trabalho não seria possível sem alguns programas de código aberto, em especial: [python](https://www.python.org/), [pandoc](http://pandoc.org/) (conversão de .md para .epub e para .tex), [calibre](https://calibre-ebook.com/) (conversão de .epub para .azw, .mobi) e [overleaf](https://www.overleaf.com/) (compilação do .pdf a partir do .tex, usando modelo de [vel e cobo](http://www.latextemplates.com/template/ebook)). obrigado a [orderedlist](https://github.com/orderedlist) pelo _template_ do site, à [biblioteca benedito leite](http://www.cultura.ma.gov.br/bpbl/) pelo original do livro e ao [GitHub](https://github.com/) pela hospedagem gratuita.
 
-para pessoas nerds: [aqui](/ursula/construir) está o passo-a-passo de como criar os arquivos disponibilizados.
+__para pessoas nerds__: [aqui](/ursula/construir) está o passo-a-passo de como criar os arquivos disponibilizados.
