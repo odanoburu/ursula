@@ -17,9 +17,9 @@ trabalhar com o texto todo em um arquivo é útil para edições do tipo 'search
 import os
 
 def ursula_to_chaps(file_loc):
-'''
-essa função toma uma arquivo único .md em que está o conteúdo integral de ursula, e depois divide seu conteúdo em 22 capítulos, cada um em um arquivo diferente.
-'''
+    '''
+    essa função toma uma arquivo único .md em que está o conteúdo integral de ursula, e depois divide seu conteúdo em 22 capítulos, cada um em um arquivo diferente.
+    '''
     with open(file_loc, mode='r+', encoding='utf-8') as input_data:
         livro = input_data.read()
         livro.replace('\n\n', '\n') # para impedir que a função não cria espaços demais se for chamada muitas vezes.
