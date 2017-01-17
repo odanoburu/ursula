@@ -75,9 +75,14 @@ para fazer essa conversão, uso o programa [calibre](https://calibre-ebook.com/)
 
 ## .md -> .pdf
 
-essa conversão foi feita manualmente. a partir do template disponível [aqui](https://www.overleaf.com/docs?snip_uri=http://www.latextemplates.com/templates/books/4/ebook.zip), colei o texto do .md em que havia o conteúdo integral de Ursula e adaptei o código latex.
+essa conversão foi feita semi manualmente. primeiro, usei o pandoc para gerar um arquivo .tex a partir do .md:
 
-se você quiser uma versão pdf mais simples (funcionará bem para computadores, mas não para e-readers), uma opção é usar o pandoc:
+```bash
+pandoc *.md -s -o ursula.tex
+```
+a partir do template disponível [aqui](https://www.overleaf.com/docs?snip_uri=http://www.latextemplates.com/templates/books/4/ebook.zip), colei o texto do .tex em que havia o conteúdo integral de Ursula, adaptando algumas coisas aqui e ali.
+
+se você quiser uma versão pdf mais simples (funcionará bem para computadores, mas não para e-readers), uma opção é usar o pandoc diretamente:
 
 ```bash
 pandoc *.md -s -o ursula.pdf
