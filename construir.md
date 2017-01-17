@@ -2,7 +2,7 @@
 title: contribuir
 layout: default
 ---
-###### nota: esta página não é pensada para o público em geral (mas se você quiser aprender algo, fique e divirta-se).
+#### nota: esta página não é pensada para o público em geral (mas se você quiser aprender algo, fique e divirta-se).
 
 aqui vou mostrar como foi feita a conversão do arquivo-texto markdown em que há o conteúdo integral de Ursula para os diversos formatos disponíveis.
 
