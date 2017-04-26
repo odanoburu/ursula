@@ -30,7 +30,7 @@ não esqueça de também ler as notas de cada versão! qualquer dúvida, mande u
 
 * __ajude a fazer uma versão do livro com a grafia atualizada__: mande uma mensagem ou faça um `pull request`!
 
-    A editora **Cadernos do Mundo Inteiro** lançou uma versão com grafia atualizada com base na versão aqui disponibilizada! vocês podem encontrá-la [neste link](http://cadernosdomundointeiro.com.br/livro-ursula.php)
+    A editora **Cadernos do Mundo Inteiro** lançou uma versão com grafia atualizada com base na versão aqui disponibilizada! vocês podem encontrá-la [neste link](http://cadernosdomundointeiro.com.br/livro-ursula.php), sob licença *creative commons*.
 
 * __ajude a fazer um glossário__. há algumas palavras pouco usuais no texto original. em [\ursula-marc.md](https://github.com/odanoburu/ursula/blob/master/ursula-marc.md) há uma versão em que essas palavras estão prefixadas com um `$` para facilitar a vida de uma pessoa voluntária que deseje fazer um glossário (para uma edição didática, talvez?).
 
